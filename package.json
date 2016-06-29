@@ -1,6 +1,6 @@
 {
   "name": "react-lighthouse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple React routing function",
   "main": "src/index.js",
   "directories": {
@@ -38,6 +38,8 @@
     "tape": "^4.6.0"
   },
   "browserify": {
-    "transform": [ "babelify" ]
+    "transform": [
+      "babelify"
+    ]
   }
 }
