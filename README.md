@@ -1,4 +1,4 @@
-# React Lighthouse
+# React Lighthouse [![Build Status](https://travis-ci.org/MunGell/react-lighthouse.svg?branch=master)](https://travis-ci.org/MunGell/react-lighthouse)
 
 Simple React Router
 
